@@ -1,4 +1,4 @@
-package com.leo.paging;
+package com.common.leo.paging;
 
 import org.junit.Test;
 

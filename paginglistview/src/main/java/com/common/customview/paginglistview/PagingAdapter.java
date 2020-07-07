@@ -1,8 +1,10 @@
-package com.leo.paginglistview;
+package com.common.customview.paginglistview;
 
 import android.content.Context;
 
 import java.util.List;
+
+import com.common.adapter.ListViewBaseAdapter;
 
 /**
  * 列表分页适配器，配合 {@link PagingListView} 使用

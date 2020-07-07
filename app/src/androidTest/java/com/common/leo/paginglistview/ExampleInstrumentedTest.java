@@ -1,4 +1,4 @@
-package com.leo.paging;
+package com.common.leo.paginglistview;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.leo.paging.test", appContext.getPackageName());
+        assertEquals("com.leo.com.customview.paginglistview", appContext.getPackageName());
     }
 }

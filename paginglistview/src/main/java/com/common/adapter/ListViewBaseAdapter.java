@@ -1,4 +1,4 @@
-package com.leo.paginglistview;
+package com.common.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -68,7 +68,7 @@ public class ListViewBaseAdapter<T> extends BaseAdapter {
     }
 
     @Override
-    public Object getItem(int position) {
+    public T getItem(int position) {
         return data == null ? null : data.get(position);
     }
 

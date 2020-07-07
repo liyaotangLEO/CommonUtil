@@ -1,4 +1,4 @@
-package com.leo.paginglistview;
+package com.common.leo.paginglistview;
 
 import org.junit.Test;
 

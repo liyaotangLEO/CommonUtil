@@ -1,4 +1,4 @@
-package com.leo.paginglistview;
+package com.common.customview.paginglistview;
 
 import android.content.Context;
 import android.util.AttributeSet;
